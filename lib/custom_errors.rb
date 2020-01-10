@@ -10,7 +10,10 @@ class Person
   #   person.partner = self
   # end
   
+<<<<<<< HEAD
   
+=======
+>>>>>>> 34da3b8d8012e1d2911612f3319a5a962a4b5237
    def get_married(person)
     self.partner = person
     if person.class != Person
